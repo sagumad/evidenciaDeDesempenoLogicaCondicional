@@ -31,7 +31,7 @@ public class App {
                     System.out.println("Valor de inscripcion: " + valorIns);
                     System.out.println("Valor de mensualidad: " + valorMens);
                 }
-                System.out.println("Gracias por inscribirse al gym, que tenga un buen dia.");
+                System.out.println("--Felicidades gracias por inscribirse al gym, que tenga un buen dia.--");
             }
         }
 
